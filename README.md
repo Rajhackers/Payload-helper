@@ -4,6 +4,21 @@ It contains an Android payload in the Metasploit framework
 
 Requirments 
 1. Metaspolit-framwork install
-2. Git install 
+2. Git install
+3. ngrok
+
+
+  git clone https://github.com/Rajhackers/Payload-helper.git
+cd Payload-helper
+chmod +x  *
+bash requirments.sh
+     
+              normal
+
+  bash create-payload.sh
+
+                 ==>Other area network<==
+
+bash 'Port forwarding .sh'
 
 🤝
