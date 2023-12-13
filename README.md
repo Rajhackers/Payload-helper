@@ -8,17 +8,16 @@ Requirments
 3. ngrok
 
 
-  git clone https://github.com/Rajhackers/Payload-helper.git
-cd Payload-helper
-chmod +x  *
-bash requirments.sh
+       git clone https://github.com/Rajhackers/Payload-helper.git
+       cd Payload-helper
+
+       chmod +x  *
+
+       bash requirments.sh
      
-              normal
+       bash create-payload.sh
 
-  bash create-payload.sh
 
-                 ==>Other area network<==
-
-bash 'Port forwarding .sh'
+       bash 'Port forwarding .sh'
 
 🤝
