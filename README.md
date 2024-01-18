@@ -2,7 +2,7 @@
 # Payload-helper Hellow friend this tool very easy use metasploit framework thanks 🙏  its tool working only Android.                          
 
    # This tool use
-    open shell in which metasploit framework installed
+   # open shell in which metasploit framework installed
     
                                    apt update -y
                                    apt upgrade -y
@@ -15,7 +15,7 @@
 
   # re-start. 
 
-open shell in which metasploit framework installed 
+  # open shell in which metasploit framework installed 
 
 
                                  cd Payload-helper
