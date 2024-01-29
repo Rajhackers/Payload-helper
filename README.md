@@ -9,7 +9,6 @@
                                    apt install git -y
                                    git clone https://github.com/Rajhackers/Payload-helper
                                    cd Payload-helper
-                                   mkdir save 
                                    chmod +x *
                                    bash payload.sh 
 
